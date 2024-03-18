@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qingyuan Rachel Chen"
+  name             : "Rachel Qingyuan Chen"
   avatar           : "Grad3.jpg"
   bio              : "Vision Science, Cognitive Neuroscience, Psychology, Neuroscience" # "Your biography for the left-hand sidebar"
   location         : "Location: Meyer Hall, NYU"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/rachel-chen-1a15291a8/"
   orcid            : "https://orcid.org/0000-0003-2205-7158"
   pinterest        :
   soundcloud       :
