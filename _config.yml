@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Rachel Chen's Site"
 title_separator          : "-"
-name                     : &name "Qingyuan Rachel  Chen"
+name                     : &name "Rachel Qingyuan Chen"
 description              : &description "Hello, welcome to my site!"
 url                      : https://RachelQyChen.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
