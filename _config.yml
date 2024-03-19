@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rachel Qingyuan Chen"
   avatar           : "Grad3.jpg"
-  bio              : "Vision Science, Cognitive Neuroscience, Psychology, Neuroscience" # "Your biography for the left-hand sidebar"
+  bio              : "Vision Science, Cognitive Neuroscience" # "Your biography for the left-hand sidebar"
   location         : "Location: Meyer Hall, NYU"
   OSF              : "https://osf.io/6nphs/"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
