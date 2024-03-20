@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a second year master student in [Carrasco Lab](https://carrascolab.hosting.nyu.edu/) at NYU.
+Hello! I'm a second year Master's student in [Carrasco Lab](https://carrascolab.hosting.nyu.edu/) at NYU.
 
 Academic interests
 ------
@@ -17,3 +17,6 @@ Academic interests
 
 Others
 ------
+1. xxx
+2. xxx
+
