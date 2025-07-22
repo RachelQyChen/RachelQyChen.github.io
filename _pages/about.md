@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a second year Master's student in [Carrasco Lab](https://wp.nyu.edu/carrascolab/) at NYU.
+Hello! I'm a second year PhD student in [Carrasco Lab](https://wp.nyu.edu/carrascolab/) at NYU.
 
 Academic interests
 ------
