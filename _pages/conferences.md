@@ -1,24 +1,11 @@
 ---
 title: "Conferences"
 permalink: /conferences/
-layout: single
+layout: archive
+collection: posters
 author_profile: true
+excerpt: "Conference posters and presentations"
 ---
 
-Hello! I'm a second year PhD student in [Carrasco Lab](https://wp.nyu.edu/carrascolab/) at NYU.
-
-### Academic interests
-1. xxx  
-2. xxx
-
-### Others
-1. xxx  
-2. xxx
-
----
-
-{% include base_path %}
-
-{% for post in site.posters reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+This page lists my conference presentations and posters.  
+For full-text publications, see the [Publications](/publications/) section.
