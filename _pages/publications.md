@@ -4,13 +4,27 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+## 🧪 Journal Articles
+{% assign journal_pubs = site.publications | where: "category", "journal" | sort: "date" | reverse %}
+{% for post in journal_pubs %}
   {% include archive-single.html %}
 {% endfor %}
+
+## 🧠 Conference Papers / Abstracts
+{% assign conf_pubs = site.publications | where: "category", "conference" | sort: "date" | reverse %}
+{% for post in conf_pubs %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+#{% if author.googlescholar %}
+#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar #profile</a>.</u>
+#{% endif %}
+
+#{% include base_path %}
+
+#{% for post in site.publications reversed %}
+#  {% include archive-single.html %}
+#{% endfor %}
