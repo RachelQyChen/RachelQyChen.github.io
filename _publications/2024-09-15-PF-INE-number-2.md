@@ -1,15 +1,11 @@
 ---
 title: "Internal noise and efficiency underlie performance asymmetries throughout the visual field"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2024-09-15-PF-INE-number-2
+date: 2024-09-15
+paperurl: 'https://doi.org/10.1167/jov.24.10.394'
+category: conference
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+Recommended citation: *Xue, S., Barbot, A., Chen, Q., & Carrasco, M. (2024). Internal noise and efficiency underlie performance asymmetries throughout the visual field. Journal of Vision 24(10), 394.*
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
