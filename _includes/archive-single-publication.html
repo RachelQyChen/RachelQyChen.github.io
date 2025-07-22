@@ -17,5 +17,9 @@
       <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p>
     {% endif %}
 
+    {% if post.content %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>
+    {% endif %}
+
   </article>
 </div>
