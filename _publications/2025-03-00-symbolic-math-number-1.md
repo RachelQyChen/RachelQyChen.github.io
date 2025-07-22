@@ -3,7 +3,7 @@ title: "The development of situational mathematical ability lags behind the deve
 collection: publications
 permalink: /publication/2025-03-00-symbolic-math-number-1
 date: 2025-03-01
-paperurl: 'http://academicpages.github.io/files/paper1.pdf](https://doi.org/10.1007/s10212-024-00924-4'
+paperurl: 'https://doi.org/10.1007/s10212-024-00924-4'
 category: journal
 ---
 
