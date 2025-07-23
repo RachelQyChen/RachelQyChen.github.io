@@ -17,7 +17,7 @@ Academic Interests
    * Non-invasive neurostimulation techniques;
    * Neuroimaging methods. 
 3. Exploring computational frameworks that account for human visual perception, including:
-   * Generalized linear and non-linear models (e.g. linear Amplifier Model, Perceptual Template Model, Naka-Rushton function);
+   * Generalized linear and non-linear models (e.g. Linear Amplifier Model, Perceptual Template Model, Naka-Rushton function);
    * Bayesian inference and Bayesian modeling.
 
 Others
