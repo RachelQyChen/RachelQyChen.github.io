@@ -18,10 +18,11 @@ excerpt: "Conference posters and presentations"
 
 2️⃣0️⃣2️⃣4️⃣
 ------
-    \item Xue, S., Barbot, A., \textbf{Chen, Q.}, \& Carrasco, M. (2024). Internal noise and efficiency underlie performance asymmetries throughout the visual field. Poster presented at \textit{Vision Sciences Society 2024}, St. Pete Beach, FL.
+1. Xue, S., Barbot, A., **Chen, Q.**, & Carrasco, M. (2024). Internal noise and efficiency underlie performance asymmetries throughout the visual field. Poster presented at *Vision Sciences Society 2024*, St. Pete Beach, FL.
     
-    \item \textbf{Chen, Q.}, Xue, S., Barbot, A., \& Carrasco, M. (2024). Do internal noise and efficiency underlie performance differences throughout the visual field? Poster presented at \textit{NYU 2023 MA Psychology Research Conference}, New York, NY.
+2. **Chen, Q.**, Xue, S., Barbot, A., & Carrasco, M. (2024). Do internal noise and efficiency underlie performance differences throughout the visual field? Poster presented at *NYU 2023 MA Psychology Research Conference*, New York, NY.
 
 2️⃣0️⃣2️⃣3️⃣
 ------
+1. **Chen, Q.**, Hanning, N.M., & Carrasco, M. (2023). Does rFEF+ play a causal role for exogenous attention? Poster presented at *NYU 2023 MA Psychology Research Conference*, New York, NY.
 
