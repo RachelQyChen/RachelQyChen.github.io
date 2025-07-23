@@ -2,7 +2,7 @@
 title: "Social Neuroscience"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2023-fall-socineuro-1
 venue: "New York University"
 date: 2014-01-01
 location: "NYC, USA"
