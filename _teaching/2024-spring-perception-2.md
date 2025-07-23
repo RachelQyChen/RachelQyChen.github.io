@@ -1,7 +1,7 @@
 ---
 title: "Perception"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2024-spring-perception-2
 venue: "New York University"
 date: 2024-01-01
