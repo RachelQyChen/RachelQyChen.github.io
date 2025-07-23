@@ -190,6 +190,9 @@ collections:
   posters:
     output: true
     permalink: /posters/:path/
+  research:
+    output: true
+    permalink: /research/:path/
 
 
 
