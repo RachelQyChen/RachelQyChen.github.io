@@ -16,7 +16,7 @@ This course provided a broad overview of social neuroscience, considering how so
 
 Content
 ======
-[Lecture slides]([https://osf.io/du6w7/files/osfstorage]))
+[Lecture slides]([https://osf.io/du6w7/files/osfstorage])
 
 Miscellaneous Info
 ======
