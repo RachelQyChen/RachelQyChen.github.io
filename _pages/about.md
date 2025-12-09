@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hello!** I'm a second year PhD student in [Landy Lab]([https://wp.nyu.edu/carrascolab/](https://wp.nyu.edu/landylab/) at [NYU](https://gsas.nyu.edu/). My research interests center on leveraging computational modeling and neuroimaging techniques to better understand the complexities of the human visual encoding process. I'm particularly intrigued by the differences between human and computer vision. By studying the unique properties of human visual perception, I aim to contribute to the development of computer vision systems that more accurately mimic human visual capabilities, as well as to advance VR/AR technologies. Feel free to connect if you’re also enthusiastic about vision science and AI!
+**Hello!** I'm a second year PhD student in [Landy Lab](https://wp.nyu.edu/landylab/) at [NYU](https://gsas.nyu.edu/). My research interests center on leveraging computational modeling and neuroimaging techniques to better understand the complexities of the human visual encoding process. I'm particularly intrigued by the differences between human and computer vision. By studying the unique properties of human visual perception, I aim to contribute to the development of computer vision systems that more accurately mimic human visual capabilities, as well as to advance VR/AR technologies. Feel free to connect if you’re also enthusiastic about vision science and AI!
 
 Academic Interests
 ------
