@@ -24,5 +24,5 @@ Others
 ------
 Beyond research, I'm also interested in quantitative finance. I enjoy studying mathematical models and statistical techniques applied in financial markets, particularly those related to trading strategies, risk modeling, and decision-making under uncertainty. I'm currently learning more about portfolio optimization, options pricing, and the applications of machine learning in finance.
 
-Outside of work, I enjoy fashion, photography, and video editing. I love exploring the outdoors—especially hiking—and I regularly play Texas Hold’em poker, which sharpens my strategic thinking and decision-making under pressure.
+Outside of work, I enjoy fashion, photography, and video editing. I love exploring the outdoors—especially hiking—and I play Texas Hold’em poker, which sharpens my strategic thinking and decision-making under pressure.
 
